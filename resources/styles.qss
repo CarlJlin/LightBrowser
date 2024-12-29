@@ -1,0 +1,14 @@
+QMainWindow {
+    background-color: #f5f5f5;
+}
+
+QToolBar {
+    background-color: #e0e0e0;
+    border: none;
+}
+
+QLineEdit {
+    padding: 5px;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+}
